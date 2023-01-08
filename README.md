@@ -16,6 +16,7 @@ I'm Mehedi Hasan Sumon. A Flutter Developer. Currently developing on my own.
 - Fishing 🐟:
 
 ## Get in touch :coffee:
+- Get in touch [Mail](mhsumon107@gmail.com)
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-sumon-aa560a215)
 - And of course GitHub you're already on (Recursion).
 
