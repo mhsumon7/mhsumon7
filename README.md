@@ -1,10 +1,8 @@
-# Hey there :wave:
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://user-images.githubusercontent.com/74013982/211177206-20ae769f-da7c-4a89-b192-3af28acc42c5.png" />
 </p>
 
 ## About me
@@ -13,14 +11,12 @@ I'm Mehedi Hasan Sumon. A Flutter Developer. Currently developing on my own.
  
 ## Things I am passionate about
 
-- App Development :mobile:
+- App Development 📱:
 - Open source :octocat:
+- Fishing 🐟:
 
 ## Get in touch :coffee:
-
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-sumon-aa560a215)
 - And of course GitHub you're already on (Recursion).
 
 
