@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://user-images.githubusercontent.com/74013982/214831758-bb1c9226-f068-4203-8dbc-d6aaac240a5f.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
