@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74013982/214831758-bb1c9226-f068-4203-8dbc-d6aaac240a5f.png" alt="Hello world">
+<img src="https://user-images.githubusercontent.com/74013982/216127747-c06c8f97-b2f6-4f68-82e4-9426f94b8938.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
